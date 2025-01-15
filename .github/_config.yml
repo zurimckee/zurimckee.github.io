@@ -3,7 +3,11 @@
 #i really like - minima, modernist, tactile
 
 title: projbyzuri
-description: zuri's project website for jobs and such|hey I'm zuri! this is where i'll be keeping all of my projects, and where i will document my progress and journey through comp sci! i'm also trying to make it look a little cooler so it's only boring looking right now. enjoy!
-theme: jekyll-theme-minima
-url: zurimckee.github.io/
+description: > 
+zuri's project website for jobs and such 
+hey I'm zuri! this is where i'll be keeping all of my projects, and where i will document my
+progress and journey through comp sci! i'm also trying to make it look a little cooler so 
+it's only boring looking right now. enjoy!
+theme: minima
+url: https://zurimckee.github.io/
 
