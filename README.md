@@ -19,7 +19,7 @@ my projects are held in folders, here are what the names mean and what is in eac
 
 >search proj - https://github.com/zurimckee/zurimckee.github.io/tree/main/search%20proj
 
->thatda**dog - https://github.com/zurimckee/zurimckee.github.io/tree/main/search%20proj 
+>thatdog - https://github.com/zurimckee/zurimckee.github.io/tree/main/search%20proj 
 
 also here are some socials if you're into that
 >linkedin - https://www.linkedin.com/inzuri-mckee-113374281/
