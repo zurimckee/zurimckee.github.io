@@ -22,7 +22,7 @@ my projects are held in folders, here are what the names mean and what each proj
 
 >search proj - https://github.com/zurimckee/zurimckee.github.io/tree/main/search%20proj
 
->thatdog - https://github.com/zurimckee/zurimckee.github.io/tree/main/search%20proj 
+>thatdog - https://github.com/zurimckee/zurimckee.github.io/tree/main/thatdamndog
 
 ***
 
