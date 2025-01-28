@@ -1,0 +1,38 @@
+title: projbyzuri
+author: zuri mckee
+  name: zurimckee
+  email: zurimckee95@gmail.com
+
+description: >
+  Hey I'm Zuri! This is where I'll be keeping all of my projects, and where 
+  I will document my progress and journey through comp sci! I'm also trying 
+  to get a website up, hence the work in progress. I'm also trying to make 
+  it look a little cooler so it's only boring looking right now. enjoy!
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - wiki.git
+  - README.md
+  
+show_excerpts: true
+
+minima:
+  skin: solarized-light
+
+date_format: "%b-%d-%Y"
+
+
+social_links:
+  - { platform: github,         user_url: "https://github.com/zurimckee" }
+  - { platform: instagram,      user_url: "https://www.instagram.com/zuriizm" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/zuri-mckee" }
+  - { platform: pinterest,      user_url: "https://www.pinterest.com/zurikeemc" }
+  - { platform: letterboxd,     user_url: "https://boxd.it/32o7x"}
+
+
+
